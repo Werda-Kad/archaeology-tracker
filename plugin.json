@@ -1,0 +1,7 @@
+{
+    "name": "Archaeology Tracker",
+    "version": "1.0.0",
+    "contactEmailAddress": "werdakad@gmail.com",
+    "hasRibbonIcon": true,
+    "optionalPermissions": [ "chatAccess" ]
+}
